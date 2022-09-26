@@ -17,6 +17,7 @@ export default function Main(propss) {
             <Route
               path="/"
               exact
+              
               render={(props) => (
                 <Splash
                   {...props}
