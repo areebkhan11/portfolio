@@ -286,7 +286,7 @@ const degrees = {
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering degree. ",
       ],
-      website_link: "http://www.ssgec.ac.in/",
+      website_link: "https://iqra.edu.pk/",
     },
     {
       title: "Govt. College For Men Nazimabad",
@@ -299,7 +299,7 @@ const degrees = {
         "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://www.facebook.com/GCNKARACHI/",
     },
   ],
 };
